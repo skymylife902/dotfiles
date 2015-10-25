@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/yinle/Workspace/open_source/hadoop/hadoop-2.5.1-src/hadoop-hdfs-project/hadoop-hdfs/target/native/CMakeFiles'
+let g:netrw_dirhist_2='/Users/yinle/.vim'
+let g:netrw_dirhist_3='/Users/yinle/.config/git'
+let g:netrw_dirhist_4='/Users/yinle/.subversion/auth'
+let g:netrw_dirhist_5='/Users/yinle/.subversion/auth/svn.simple'
+let g:netrw_dirhist_6='/Users/yinle/.subversion/auth/svn.username'
